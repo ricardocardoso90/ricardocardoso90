@@ -5,6 +5,8 @@
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&locale=pt-br)](https://github.com/ricardocardoso90/github-readme-stats)
+
 ## Tecnologias que tenho habilidades:
 <div style="display: inline-block"> <br/>
   <img style="align: center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
