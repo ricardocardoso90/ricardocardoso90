@@ -5,7 +5,7 @@
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&locale=pt-br)](https://github.com/ricardocardoso90/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact)](https://github.com/ricardocardoso90/github-readme-stats)
 
 ## Tecnologias que tenho habilidades:
 <div style="display: inline-block"> <br/>
