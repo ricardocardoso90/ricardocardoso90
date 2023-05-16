@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cardoso-705341215/)
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&locale=pt-br)](https://github.com/ricardocardoso90/github-readme-stats)
 
 ## Tecnologias que tenho habilidades:
