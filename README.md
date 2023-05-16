@@ -4,9 +4,10 @@
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact)](https://github.com/ricardocardoso90/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&theme=dracula)](https://github.com/ricardocardoso90/github-readme-stats)
 
 ## Tecnologias que tenho habilidades:
+
 <div style="display: inline_block"> <br/>
   <img style="align: center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img style="align: center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
