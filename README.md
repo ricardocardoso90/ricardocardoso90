@@ -2,7 +2,7 @@
 
  ### Olá, eu sou o Ricardo Cardoso! 👋 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cardoso-705341215/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocardoso90/)
   
  <!--   <a href="https://github.com/ricardocardoso90"> -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&langs_count=7&theme=dracula"/>
