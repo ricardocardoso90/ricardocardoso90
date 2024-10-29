@@ -2,6 +2,8 @@
 
  ### Olá, eu sou o Ricardo Cardoso! 👋 
 
+ <div style="display: inline_block"> <br/>
+
  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocardoso90/) -->
   
  <!--   <a href="https://github.com/ricardocardoso90"> -->
