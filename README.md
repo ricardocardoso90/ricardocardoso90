@@ -6,7 +6,8 @@
 
   <div align="center">
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocardoso90&theme=dracula" />
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ricardocardoso90&theme=dracula&cache=1" />
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
   </div>
 
   <br/>
