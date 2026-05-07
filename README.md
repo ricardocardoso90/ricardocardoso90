@@ -5,8 +5,9 @@
   <br/>
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats-tau-five.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img height="180em" src="https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocardoso90&theme=dracula" />
+    
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ricardocardoso90&theme=dracula" />
   </div>
 
   <br/>
