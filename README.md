@@ -7,11 +7,9 @@
   <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocardoso90/) -->
   <!-- <a href="https://github.com/ricardocardoso90"> -->
   
- <!-- Linguagens mais usadas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&langs_count=7&theme=dracula&hide_border=false" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso90&layout=compact&langs_count=7&theme=dracula"/>
 
-<!-- Estatísticas Gerais -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocardoso90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <div style="display: inline_block"> <br/>
     <!-- <img style="align: center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
