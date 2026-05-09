@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   ### Olá, eu sou o Ricardo Cardoso! 👋
 
   <br/>
@@ -8,6 +8,8 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocardoso90&theme=dracula"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocardoso90&theme=dracula"/>
   </div>
+
+  <p>📊 Estatísticas de contribuições e atividade no GitHub</p>
 
   <br/>
 
